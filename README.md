@@ -1,1 +1,1 @@
-# spam_notspam_classifier
+# spam_notspam_classifier using Word2Vec
